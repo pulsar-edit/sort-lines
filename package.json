@@ -15,7 +15,7 @@
       "sort-lines:unique"
     ]
   },
-  "repository": "https://github.com/atom/sort-lines",
+  "repository": "https://github.com/pulsar-edit/sort-lines",
   "license": "MIT",
   "engines": {
     "atom": ">=1.4.0 <2.0.0"
